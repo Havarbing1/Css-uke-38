@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+hr {
+    height:10px;
+    border: 2px solid #cccc99;
+    background-color: #cccc99;
+    border-style: outset;
+}
